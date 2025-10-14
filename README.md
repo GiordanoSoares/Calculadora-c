@@ -85,3 +85,15 @@ calculadora-c/
 └── assets/
     └── demo.gif
 ```
+
+## 📜 Licença
+
+Este projeto está licenciado sob a **MIT License** — veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
+## 👨‍💻 Autor
+
+**Giordano Soares**  
+💼 Técnico em Desenvolvimento de Sistemas  
+📍 Caxias do Sul — RS, Brasil  
